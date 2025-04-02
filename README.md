@@ -29,8 +29,8 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ---
 
 ## Author Info
+- LinkedIn - [@jirehhorton](https://www.linkedin.com/in/jirehhorton/)
+- Tableau Public - [@jirehhorton]([https://twitter.com/jamesqquick](https://public.tableau.com/app/profile/ji.reh.horton/vizzes))
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#Tableau-Walmart-Sales-Dashboard)
