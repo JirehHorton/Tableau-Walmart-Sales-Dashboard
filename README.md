@@ -15,7 +15,8 @@
 
 ---
 ## Description
-- This project is an interactive Tableau dashboard built to analyze Walmart transacation sales data. It provides comprehensive visual insights into total revenue, sales performance by quantity, and various metrics across different regions, product lines, and demographic segments. The dashboard is designed to help stakeholders identify sales trends, top-performing products, and regional performance, enabling data-driven decision-making. (👋 Image portrayed above is only a screenshot, to interact with the actual dashboard please click [here](https://public.tableau.com/app/profile/ji.reh.horton/viz/InteractiveWalmartSalesDashboard/InteractiveWalmartSalesDashboard) 👋)
+- This project is an interactive Tableau dashboard built to analyze Walmart transacation sales data. It provides comprehensive visual insights into total revenue, sales performance by quantity, and various metrics across different regions, product lines, and demographic segments. The dashboard is designed to help stakeholders identify sales trends, top-performing products, and regional performance, enabling data-driven decision-making.
+  - (Image portrayed above is only a screenshot, to interact with the actual dashboard please click [here](https://public.tableau.com/app/profile/ji.reh.horton/viz/InteractiveWalmartSalesDashboard/InteractiveWalmartSalesDashboard) 👋)
 ---
 ## Features
 - Interactive Filters: Filter by time period, product category, region, or demographic.
