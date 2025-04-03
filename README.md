@@ -59,7 +59,7 @@
 - This project is for educational and portfolio purposes only and is not licensed for commercial use. The data used in this project is public Walmart sales data.
 ---
 ## Author Info
-- LinkedIn - [@jirehhorton](https://www.linkedin.com/in/jirehhorton/)
-- Tableau Public - [@jirehhorton](https://public.tableau.com/app/profile/ji.reh.horton/vizzes)
+- @LinkedIn - [@jirehhorton](https://www.linkedin.com/in/jirehhorton/)
+- @Tableau Public - [@jirehhorton](https://public.tableau.com/app/profile/ji.reh.horton/vizzes)
 
 [Back To The Top](#Tableau-Walmart-Sales-Dashboard)
