@@ -31,7 +31,7 @@
 - The dashboard includes several key visualizations to help you analyze Walmart sales data:
   - Total Revenue: A visualization of the overall sales revenue for the selected time period.
   - Sales Quantity: A breakdown of the total quantity of items sold over the selected period.
-  - Revenue Across 3-Months: A time-based comparison of revenue over the past three months to analyze trends and fluctuations.
+  - Revenue Across 3 Months: A time-based comparison of revenue over the past three months to analyze trends and fluctuations.
   - Top Rated Branches: A ranking of branches based on customer ratings and sales performance.
   - Sales Quantity by Product: A chart showing the quantity sold by product, helping to identify high-demand items.
   - Top Product Lines by Sales Quantity: Identifies the top product lines based on the volume of sales quantity.
